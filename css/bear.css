@@ -10,5 +10,9 @@ html {
 
 /* Write your solution here */
 
-
+@media (max-width: 992px) {
+  body {
+    background-color: blue;
+  }
+}
 
