@@ -12,7 +12,7 @@ html {
 
 @media (max-width: 1196px) {
   #bear {
-    background-color: blue;
+    left: 800px;
   }
 }
 
