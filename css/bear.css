@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 
 @media (max-width: 1196px) {
-  body {
+  #bear {
     background-color: blue;
   }
 }
